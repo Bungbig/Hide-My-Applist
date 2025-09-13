@@ -37,7 +37,7 @@ class AboutActivity : AbsAboutActivity() {
         items.add(Contributor(R.drawable.cont_cpp_master, "LoveSy", "Idea provider", "https://github.com/yujincheng08"))
 
         items.add(Category(getString(R.string.about_support)))
-        items.add(Card("Github\nhttps://github.com/Dr-TSNG/Hide-My-Applist"))
+        items.add(Card("Github\nhttps://github.com/Dr-TSNG/Hide-My-dApplist"))
         items.add(Line())
         items.add(Card("Telegram\nhttps://t.me/HideMyApplist"))
         items.add(Line())
